@@ -7,8 +7,8 @@ Android와 Kotlin, Clean Code에 관심이 많고 꾸준히 공부하고 있습�
 * [github](https://github.com/hegunhee)  
 * [blog](https://hegunhee.tistory.com)  
 ## Education
-* 동양미래대학교 정보통신공학과 3년제 재학
-  * 2018.03 ~ ing
+* 동양미래대학교 정보통신공학과 3년제 졸업
+  * 2018.03 ~ 2022.02
 * 인천 산곡고등학교 졸업
   * 2015.03 ~ 2018.02  
 ## Skills  
