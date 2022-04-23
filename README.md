@@ -6,6 +6,7 @@ Android와 Kotlin, Clean Code에 관심이 많고 꾸준히 공부하고 있습�
 * 이메일 : gunhee0072@gmail.com  
 * [github](https://github.com/hegunhee)  
 * [blog](https://hegunhee.tistory.com)  
+* [notion](https://unleashed-redcurrant-8ed.notion.site/37a87b80bbca4e6ab5391c46e3d0486f)
 ## Education
 * 동양미래대학교 정보통신공학과 3년제 졸업
   * 2018.03 ~ 2022.02
@@ -27,7 +28,7 @@ Android와 Kotlin, Clean Code에 관심이 많고 꾸준히 공부하고 있습�
   * 2021.09~ ing
 * 작업
   * **Android Clean Architecture** 적용  
-    기존에 안드로이드를 공부할때는 모든 활동을 onCreate안에 구현했지만  
+    기존에 안드로이드를 공부할때는 모든 활동을 Activity에서 구현했지만  
     AAC를 공부하고나서 로직 분리와 의존성 분리의 중요성을 깨닫고 프로젝트에 적용하였습니다.  
   * **Room DataBase** 적용  
     가계부라는 특성상 가계부 데이터를 저장하고 불러오는 과정이 필요한데  
