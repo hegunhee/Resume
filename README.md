@@ -21,11 +21,31 @@ Android와 Kotlin, Clean Code에 관심이 많고 꾸준히 공부하고 있습�
   * Koin
   * Coroutine  
 ## Projects  
+[Routiner](https://github.com/hegunhee/Routiner)  
+* 계획 플래너  
+* 개인 프로젝트로 진행했습니다.  
+* 기간  
+  * 2022.06.21 ~ 2022.07.11(앱출시) 지속적으로 업데이트중  
+* 작업  
+  * **AAC-ViewModel** 적용  
+ Activity나 Fragment에 보여줄 data를 가지고있습니다.  
+ Activity나 Fragment가 화면 회전 등의 이유로 Destroy 상태가 되어도  
+ AAC-ViewModel은 재 생성되지 않기때문에 데이터를 쉽게 관리할 수 있습니다.
+ 그리고 ViewModelScope를 사용해 비동기 코드를 쉽게 작성할 수 있습니다.  
+* **Flow** 적용  
+ 지속적으로 데이터를 받을 수 있는 Flow를 사용해 오늘의 루틴을 받을 수 있습니다.  
+* **DataBinding** 적용  
+ dataBinding을 사용하여 findViewById를 사용하지 않으며 xml 파일과 데이터 객체를 연결해줍니다.  
+* **Hilt** 적용  
+ 의존성 주입을 사용해서 테스트를 쉽게 사용하고 코드 내부에서 의존관계를 만들지 않고 관심사를 외부로 돌립니다.  
+* **Room Database** 적용  
+ 루틴들을 저장하고 불러오는데 Room Database를 사용하였습니다.  
+   
 [덜 편한 가계부](https://github.com/hegunhee/SimpleMemoApp)  
 * 지금 사용중인 편한 가계부라는 앱을 모티브로해서 만든 어플리케이션
 * 개인 프로젝트로 진행했습니다. 
 * 기간
-  * 2021.09~ ing
+  * 2022.03.04 ~ 2022.04.16
 * 작업
   * **Android Clean Architecture** 적용  
     기존에 안드로이드를 공부할때는 모든 활동을 Activity에서 구현했지만  
