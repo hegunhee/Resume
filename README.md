@@ -20,6 +20,7 @@ Android와 Kotlin, Clean Code에 관심이 많고 꾸준히 공부하고 있습�
   * Room
   * Koin
   * Coroutine  
+  * Hilt  
 ## Projects  
 [Routiner](https://github.com/hegunhee/Routiner)  
 * 계획 플래너  
