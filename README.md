@@ -23,6 +23,7 @@ Android와 Kotlin, Clean Code에 관심이 많고 꾸준히 공부하고 있습�
   * Hilt  
 ## Projects  
 [Routiner](https://github.com/hegunhee/Routiner)  
+* [앱 링크](https://play.google.com/store/apps/details?id=com.hegunhee.routiner)
 * 계획 플래너  
 * 개인 프로젝트로 진행했습니다.  
 * 기간  
