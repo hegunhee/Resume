@@ -6,7 +6,10 @@ Android와 Kotlin, Clean Code에 관심이 많고 꾸준히 공부하고 있습�
 * 이메일 : gunhee0072@gmail.com  
 * [github](https://github.com/hegunhee)  
 * [blog](https://hegunhee.tistory.com)  
-* [notion](https://unleashed-redcurrant-8ed.notion.site/37a87b80bbca4e6ab5391c46e3d0486f)
+* [notion](https://unleashed-redcurrant-8ed.notion.site/37a87b80bbca4e6ab5391c46e3d0486f)  
+## Career 
+* 카카오 헤어샵  
+  * 2022.09 ~ ing 
 ## Education
 * 동양미래대학교 정보통신공학과 3년제 졸업
   * 2018.03 ~ 2022.02
