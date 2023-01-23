@@ -22,7 +22,7 @@ Android와 Kotlin, Clean Code에 관심이 많고 꾸준히 공부하고 있습�
 * Framework/Library
   * Room
   * Koin
-  * Coroutine  
+  * Coroutine + Flow  
   * Hilt  
 ## Projects  
 [Routiner](https://github.com/hegunhee/Routiner)  
