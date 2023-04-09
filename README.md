@@ -1,12 +1,10 @@
 # Resume
-안녕하세요
-안드로이드 개발자를 꿈꾸는 이건희 입니다.  
-Android와 Kotlin, Clean Code에 관심이 많고 꾸준히 공부하고 있습니다.  
-코드를 작성하는것 뿐만 아니라 개발자간의 커뮤니케이션, 소프트웨어 아키텍쳐에 관심이 많습니다.  
+안녕하세요 저는 내일을 준비하는 안드로이드 개발자 이건희 입니다.  
+새로운 기술에 관심이 많으며 기존의 기술과의 조화를 중요하게 생각합니다.  
+매일매일 배우며 잘하는 개발자가 되고싶습니다.  
 * 이메일 : gunhee0072@gmail.com  
 * [github](https://github.com/hegunhee)  
 * [blog](https://hegunhee.tistory.com)  
-* [notion](https://unleashed-redcurrant-8ed.notion.site/37a87b80bbca4e6ab5391c46e3d0486f)  
 ## Career 
 * 카카오 헤어샵  
   * 2022.09 ~ ing 
