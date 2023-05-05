@@ -7,7 +7,7 @@
 * [blog](https://hegunhee.tistory.com)  
 ## Career 
 * 카카오 헤어샵  
-  * 2022.09 ~ ing 
+  * 2022.09 ~ 2023.04.30  
 ## Education
 * 동양미래대학교 정보통신공학과 3년제 졸업
   * 2018.03 ~ 2022.02
